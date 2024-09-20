@@ -1,0 +1,11 @@
+[DEFAULT]
+linefittimestart = 40
+linefittimeend = 60
+outputcsvcolumnxname = H
+outputcsvcolumnyname = dT/dt
+xcollumnmultiplier = 1
+ycollumnmultiplier = 1000
+fittedplotxaxis = t [s]
+fittedplotyaxis = T [K]
+frequency = 50 [kHz]
+
