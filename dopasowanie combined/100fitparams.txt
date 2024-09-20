@@ -1,0 +1,4 @@
+$\frac{dT}{dt} = \left(\frac{H}{935}\right)^{2.11}$
+$\mathrm{a}=935 \pm 25$
+$\mathrm{n}=2.11 \pm 0.05$
+$\mathrm{adj.} \ R^2=0.9987$

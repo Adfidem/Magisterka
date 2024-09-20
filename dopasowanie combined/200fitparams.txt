@@ -1,0 +1,4 @@
+$\frac{dT}{dt} = \left(\frac{H}{175}\right)^{1.66}$
+$\mathrm{a}=175 \pm 14$
+$\mathrm{n}=1.66 \pm 0.04$
+$\mathrm{adj.} \ R^2=0.9978$
